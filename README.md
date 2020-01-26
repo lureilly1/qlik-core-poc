@@ -1,11 +1,9 @@
-
-# qlik-core-poc
 Qlik Core Proof of Concept
+How to Run
 =======
 
-## How to Run
-
-## 1 cd into Project Directory: qlik-core-poc
+## cd into Project Directory 
+cd qlik-core-poc
 
 ## Pull docker image
 Docker pull qlikcore/engine
